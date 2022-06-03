@@ -1,4 +1,4 @@
-# Two Sum
+# 回文数
 
 > 来源: 力扣（LeetCode）<br /> 链接: https://leetcode.com/problems/palindrome-number/
 

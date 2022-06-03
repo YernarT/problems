@@ -1,4 +1,4 @@
-# Two Sum
+# 两数之和
 
 > 来源: 力扣（LeetCode）<br /> 链接: https://leetcode.com/problems/two-sum/
 
